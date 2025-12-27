@@ -321,17 +321,7 @@ This project was developed as a hostel management solution using Java Swing and 
 
 ## License
 
-This is an educational project. Contact the developer for usage permissions.
+This is an educational project. Contact the developer (Me) for usage permissions.
 
-## Support
 
-For issues or questions about the system, contact the hostel administration or IT support team.
 
-## Developer Notes
-
-- Built with NetBeans IDE using JFrame forms
-- Uses Swing components for GUI
-- MySQL database for data persistence
-- Client-server architecture for remote access
-- PDF generation using iText library
-- Date selection using JCalendar components
