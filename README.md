@@ -1,7 +1,5 @@
 # Hostel-Management-System
 Implemented using Java Swing Framework
-# Hostel Management System
-
 A comprehensive desktop application for managing hostel operations including student registration, staff management, room assignments, payments, and complaints tracking.
 
 ## Description
